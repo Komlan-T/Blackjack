@@ -23,7 +23,7 @@ public class Blackjack {
 
             gameCount++;
 
-            System.out.println("START GAME #" + gameCount + "\n");
+            System.out.println("START GAME #" + gameCount + "\n");               // first commit
 
             int dealtCard = randomNumber.nextInt(13) + 1;
 
